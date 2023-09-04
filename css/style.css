@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-graphic {
+    width: 500px;
+    background-color:#4ea0ff ;
+    background-image: url(../img/pattern.png);
+    display: inline-block;
+}
+
+.title-logo {
+    width: 10%;
+}
