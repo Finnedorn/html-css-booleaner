@@ -13,6 +13,7 @@
 
 .container {
     padding: 10px;
+    
 }
 
 .title-logo {
@@ -30,4 +31,16 @@
 
 figcaption {
     font-size: small;
+}
+
+.section-margin{
+    margin-bottom: 20px;
+}
+
+.underlined {
+    background-color: yellow;
+}
+
+.list {
+    padding-left: 20px;
 }
