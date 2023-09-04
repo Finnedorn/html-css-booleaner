@@ -12,8 +12,10 @@
 }
 
 .container {
+    font-family: 'Times New Roman', Times, serif;
     padding: 10px;
-    
+    width: 1500px;
+    margin: center;
 }
 
 .title-logo {
