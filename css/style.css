@@ -62,4 +62,23 @@ th {
 
 }
 
+.footerstuff-01 {
+    font-size: 20px;
+    margin-top: 10px;
+    color: aliceblue;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-position: cover;
+}
 
+
+.footerstuff-02 {
+    font-size: 20px;
+    margin-top: 10px;
+    color: aliceblue;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-position: cover;
+}
