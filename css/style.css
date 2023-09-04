@@ -4,11 +4,12 @@
     box-sizing: border-box;
 }
 
-.container-graphic {
-    width: 500px;
-    background-color:#4ea0ff ;
+.container{
+    background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
-    display: inline-block;
+    background-position: ;
+    height: 150px;
+    
 }
 
 .title-logo {
