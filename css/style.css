@@ -44,3 +44,22 @@ figcaption {
 .list {
     padding-left: 20px;
 }
+
+.tab-set {
+    width: 100%;
+    margin-left: 30px;
+    display: default;
+    display: table-header-group;
+}
+
+.tablestuff{
+    background-color: #b1e5f2;
+}
+
+th {
+    background-color: #4ea0ff;
+    color: aliceblue;
+
+}
+
+
