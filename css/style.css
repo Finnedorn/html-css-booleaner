@@ -4,14 +4,30 @@
     box-sizing: border-box;
 }
 
-.container{
+.banner-head{
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
-    background-position: ;
-    height: 150px;
-    
+    background-position: center;
+    height: 120px;
+}
+
+.container {
+    padding: 10px;
 }
 
 .title-logo {
     width: 10%;
+    margin-top: 50px;
+}
+
+.grey-font {
+    color: #8c8c8c;
+}
+
+.blue-font {
+    color: #6dc6ee;
+}
+
+figcaption {
+    font-size: small;
 }
